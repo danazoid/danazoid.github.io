@@ -1,9 +1,7 @@
 <!doctype html>
-<!-- 
-Liquid "Layouts" are PAGE TEMPLATES
+<!-- Liquid "Layouts" are PAGE TEMPLATES
 that can be used by any page in your site 
-and wrap around page content. 
--->
+and wrap around page content. -->
 
 <!-- can use variables in the FrontMatter of the page -->
 <!-- Liquid "Includes" are CODE FUNCTIONS -->
@@ -12,6 +10,7 @@ and wrap around page content.
   <head>
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
     {% include navi.html %}

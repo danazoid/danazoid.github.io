@@ -1,4 +1,30 @@
-<! -- Front Matter is a snippet of YAML 
+<!doctype html>
+<!-- Liquid "Layouts" are PAGE TEMPLATES
+that can be used by any page in your site 
+and wrap around page content. -->
+
+<!-- can use variables in the FrontMatter of the page -->
+<!-- Liquid "Includes" are CODE FUNCTIONS -->
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Howdy!</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+  </head>
+  <body>
+    <nav>
+  
+  <a href="/" class="current">Home</a>
+  
+  <a href="/about.html" >About</a>
+  
+  <a href="/blog.html" >Blog</a>
+  
+  <a href="/staff.html" >Staff</a>
+  
+</nav>
+    <! -- Front Matter is a snippet of YAML 
 placed between two triple-dashed lines
 at the start of a file. -->
 <! -- Front Matter tells Jekyll to process Liquid -->
@@ -8,3 +34,5 @@ at the start of a file. -->
 <h1>hello world!</h1> 
 
 <! -- example of Liquid "filter" -->
+  </body>
+</html>
