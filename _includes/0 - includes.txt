@@ -1,0 +1,3 @@
+includes are MINI TEMPLATES
+short bits of html and other code
+page snippets

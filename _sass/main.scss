@@ -1,3 +1,129 @@
-.current {
+/* FONTS */
+@font-face { 
+    /* to specify a custom font */
+    font-family: HelloHeadline; 
+    src: url('/assets/HelloHeadline.ttf'); 
+}
+
+@font-face {
+    font-family: OpenSans;
+    src: url('/assets/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf');
+    font-optical-sizing: auto;
+    font-weight: normal;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
+
+/* DEFAULTS */
+
+a {
+    text-decoration: none;
+}
+
+li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    list-style-type: none;
+}
+
+h4 {
+    margin-bottom: 5px;
+}
+
+/* BACKGROUND */
+
+body {
+    margin: auto;
+    background-color: #c2e3fe;
+    color: #5a5a87;
+    font-family: open-sans, Arial, sans-serif;
+}
+
+/* HEADER */
+
+header {
+    position: sticky;
+    top: 0px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 20%;
+    padding-right: 20%;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: #FFFFFF;
+
+    font-family: HelloHeadline;
+    background-color: #000000;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+nav a {
+    color: #8a85eb;
+    padding: 2px;
+    text-decoration: none;
+    text-align: center;
+}
+
+nav a:hover {
+    background-color: #9a5d30;
+    color: #faaf71;
+}
+
+nav .current {
     color: green;
 }
+
+/* MAIN CONTENT */
+
+#book {
+    width: 100%;
+}
+
+#content {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 20px;
+    font-family: OpenSans, Arial, sans-serif;   
+}
+
+#content table {
+    border-collapse: collapse;
+    border: 1px solid;
+}
+
+#content td {
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+#content td.fr {
+    display: table-cell;
+}
+
+#content td.jp {
+    display: none;
+}
+
+#content tr:nth-child(odd) {
+    background-color: #CCCCCC;
+}
+
+/* SIDE BAR */
+
+aside {
+    position: fixed;
+    width: 15%; /* 100 - content */
+    height: 100%;
+    border-right-style: solid;
+    border-right-width: 1px;
+    border-right-color: #AAAAAA;
+    padding: 20px;
+    overflow: auto;
+}
+

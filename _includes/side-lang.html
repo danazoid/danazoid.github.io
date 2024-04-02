@@ -1,0 +1,14 @@
+<h4> Links </h4>
+<li> <a href = "https://www.bluey.tv/"> Bluey Official </a> </li>
+<li> <a href = "https://www.youtube.com/@BlueyFrancais"> Bluey Youtube FR </a> </li>
+<li> <a href = "https://sakuramanga.org/p-yotsuba-to/"> Yotsuba Raws </a> </li>
+
+<h4> Transcripts </h4>
+{% for transcript in site.transcripts %}
+  <li>
+    <a href="{{ transcript.url }}"> 
+      {{ transcript.show }}: {{ transcript.epName }} 
+      (S{{ transcript.season }}E{{ transcript.episode}})
+    </a>
+  </li>
+{% endfor %} 

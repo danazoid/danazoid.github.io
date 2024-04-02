@@ -1,8 +1,13 @@
 - name: Home
   link: /
-- name: About
-  link: /about.html
 - name: Blog
   link: /blog.html
-- name: Staff
-  link: /staff.html
+- name: Language
+  link: /language.html
+ 
+# - name: Works
+# link: /works.html
+# - name: Spirit
+# link: /spirit.html
+# - name: Music
+# link: /music.html

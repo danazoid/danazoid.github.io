@@ -1,0 +1,892 @@
+---
+show: "Bluey"
+epName: "Stories"
+season: 3
+episode: 28
+---
+
+<table>
+<tr>
+    <td>[Calpyso]</td>
+    <td class="fr">
+    Un jour, la classe d'Indy fabriquait <br>
+    des animaux avec de la cire d'abeille.<br>
+    Les terriers fabriquaient des piranhas.<br>
+    Bluey fabriquait une baleine.<br>
+    Winton fabriquait…<br>
+    </td>
+    <td class="jp">__</td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Achoo! Crotte de nez!</td>
+    <td class="jp">__</td>
+</tr>
+
+<tr>
+    <td>Class</td>
+    <td class="fr">Ugh!</td>
+    <td class="jp">__</td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">
+    Et bien, Winton faisait de Winton.<br>
+    Et Indy, l'héroïne de cette histoire, fabriquait un cheval.<br>
+    Elle y mettait tout son coeur.<br>
+    D'abord, elle fabriqua le corps du cheval. <br>
+    Ensuite, les jambes. <br>
+    Puis, elle fabriqua la queue. <br>
+    Et pour finir, la tête.
+    </td>
+    <td class="jp">__</td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Cheval! << Niii >></td>
+    <td class="jp">__</td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Elle était très contente du résultat.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Eh Bluey, regarde!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Bluey</td>
+    <td class="fr">Oh wow!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Mais il y avait un problème.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Bluey</td>
+    <td class="fr">Ta vache est vraiment très chouette Indy!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Ma vache?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Le cheval d'Indy ressemblait à une vache.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Rusty</td>
+    <td class="fr">Jolie vache Indy.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">C'est pas une vache, c'est un cheval.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Chloe</td>
+    <td class="fr">Non, c'est une vache.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Winton?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Ouuuiii?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Winton.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Haha!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Coco</td>
+    <td class="fr">Winton, pourquoi tu ne peux pas être gentil? </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Parce que je ne suis pas gentil.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">
+    Indy était très triste. <br>
+    Elle était tellement triste. <br>
+    Quand la maîtresse vint voir si elle allait bien, <br>
+    Indy lui dit:  
+    </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Je ne veux plus jamais fabriquer <br>
+    des animaux en cire d'abeille.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Calypso</td>
+    <td class="fr">Oh tu n'as pas l'air d'aller bien.<br>
+    Explique-moi pourquoi Indy.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Parce que mon cheval ressemble à une vache?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Calypso</td>
+    <td class="fr">Et pourquoi ça d'après toi?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Parce que…</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Et là, Indy dit quelque chose de très triste:</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Je suis pas très douée pour ça.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Pbbbt! PLOP!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">
+        Alors, au lieu d'essayer de s'améliorer, <br>
+        Indy ne fabriqua plus jamais rien <br>
+        avec de la cire d'abeille. <br>
+    </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Quoi? Pourquoi?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Parce qu'elle s'est dit qu'elle n'était pas très douée.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Ah oui, c'est ce que je me suis dit. <br>
+    Et c'est vrai, je suis pas douée. </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Fin de l'histoire.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Je n'aime pas cette histoire Calypso.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Moi non plus, mais c'est ton histoire.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">J'aime bien la façon dans j'apparais.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Je n'aime pas qu'Indy renonce aussi vite.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Et bien tu pourrais peut-être <br>
+    raconter une histoire différente.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Oui, et dis que je suis super musclée, s'il te plaît!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Uh, d'accord.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr" style="text-align: center">
+    Cet épisode de Bluey a pour titre:<br>
+    << les histoires >></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Il était une fois une enfant qui s'appelait Indy,<br>
+    et qui croyait qu'elle n'était douée en rien.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Je suis vraiment pas douée du tout.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Mais, Winton fit une apparition. </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Ah pbbbt... PLOP!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">C'est vrai que parfois Winton était un peu embêtant,<br>
+    mais il avait vraiment bon coeur. </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Il dit à Indy:</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Tu es doué pour plein de choses Indy, t'assure!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Je suis pas douée. Regarde!<br>
+    Mon cheval ressemble à une vache.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Moo!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Winton!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Désolée. Et ben moi je te répète que<br> 
+    tu es doué pour plein de choses.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Est-ce qu'Indy allait croire Winton?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Oui!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]<br>[Winton] </td>
+    <td class="fr">Hourra!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Tu veux bien m'aider Winton?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">D'accord!<br>(plays a riff)</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Je vous ai dit que Winton avait bon coeur.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Winton et Indy essayèrent de savoir<br>
+    ce qui cloche ce cheval-vache.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Est-ce que c'est la couleur?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Euh, je crois pas non.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Ah! Je sais.<br>
+    Il faudrait trouver une image de vache et la regarder</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Oh oui! < Bzzz > <br>
+    (Winton flies to the book shelf)</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Oh, j'aime bien cette histoire!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Cendrillon, non…</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Les trois petits cochons…</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Oh Winton! Le vieux McDonald!<br>
+    (CC: la ferme de Mathurin)<br>
+    Il a une vache? Pas vrai?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Voyons vois... <br>
+    Le vieux McDonald a une ferme. <br>
+    I A I A O! <br>
+    Et dans cette ferme ai là une…</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Both</td>
+    <td class="fr">Vache! Oui!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">I A I A O!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Il se ressemble vraiment beaucoup.<br>
+    Mais attends ça on le savait déjà. </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Ah oui!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Il faudrait savoir à quoi ressemble un cheval? <br>
+    Regarde si le vieux McDonald's un cheval.
+    </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Une poule, un canard, un cochon. <br>
+    Ah pas de cheval. </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Aw.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Ah ça c'est très étrange.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Winton…</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Pourquoi le vieux McDonald's n'a pas de cheval? </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Winton…</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Il s'est peut-être échappé.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Winton!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Oui?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Il suffit que je dis que mon cheval est une vache.
+    </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Mais c'est pas une vache. C'est un cheval.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Oui je sais, mais c'est pas un cheval très réussi. <br> 
+    Mais c'est une vache plutôt bien réussie. </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">En plus d'avoir bon coeur et d'être très musclé, <br>
+    Winton était le plus honnête du monde. </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Non Indy. C'est un cheval. <br>
+    Enfin il va le devenir. <br>
+    Il faut simplement le retravailler. <br>
+    </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Mais on n'a pas une seule image de cheval.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Non mais j'ai une meilleure idée. <br>
+    Allez viens! <br>
+    (robot transforming sounds)</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Winton]</td>
+    <td class="fr">Ah au fait, Winton pouvait aussi <br>
+    se transformer en petit bolide.</td>
+    <td class="jp"></td>
+</tr>
+
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Ils demandèrent à Calypso <br>
+    s'il pouvait aller voir major Tom, <br>
+    le cheval qui vivait à côté. </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td colspan="2" style="text-align: center">
+    (At the farm next door) 
+    </td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Lève ton cheval-vache Indy.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">D'accord.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Soudain, tout s'est clarifié.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Winton]</td>
+    <td class="fr">C'est le coup, c'est le coup!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Il est trop court.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Les chevaux ont un grand coup.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Major Tom</td>
+    <td class="fr">Oui, un grand coup.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton<br>& Indy</td>
+    <td class="fr">Hourra!<br>
+    Merci Major Tom!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Major Tom</td>
+    <td class="fr">Il n'y a pas de quoi.<br>
+    Et Winton, le vieux McDonald's a bien un cheval,<br>
+    mais il était en vacances quand ils ont écrit le livre.
+    </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Ohhh.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td colspan="2" style="text-align: center">
+    (Back to the classroom) 
+    </td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Maintenant ils étaient prêts <br>
+    à arranger le cheval-vache.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">C'est facile de faire des rouleaux <br>
+    de cire d'abeille <br>
+    quand on est très musclé. </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Merci Winton. <br>
+    Au revoir vache et bonjour cheval.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Hourra!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Rusty</td>
+    <td class="fr">Jolie girafe.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Oh non! On a transformé <br>
+    un cheval-vache en cheval-girafe.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Je suis désolée, c'est ma faute. <br>
+    Je ne suis vraiment pas douée. <br>
+    Wahh! [cries]</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Indy etait revenue au point de départ. <br>
+    Mais quelle histoire allait-elle se raconter cette fois?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Vieux McDonald's a une ferme. <br>
+    I A I A O! <br>
+    Et dans cette ferme il y a un… </td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Both</td>
+    <td class="fr">Cheval-girafe! I A I A O!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Avec un…</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Coin coin ici et coin coin là!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">< rire > D'accord d'accord. <br> 
+    Alors que s'était il passé?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Donc ils se remirent au travail.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">On lui avait fait le coup trop long.<br>
+    Voilà!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Rusty</td>
+    <td class="fr">Cheval!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Everyone</td>
+    <td class="fr">Oui!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td colspan="2" style="text-align: center">
+    (Winton does Dr. Strange) 
+    </td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Merci pour ton aide Winton.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">N'y a pas de quoi.<br>
+    Je t'avais dit que t'étais douée.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Je trouve que tu es doué toi aussi.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Aw, comme ils sont mignons.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Comment va l'appeler?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Major Tom</td>
+    <td class="fr">Major Tom?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td colspan="2" style="text-align: center">
+    (Coco screams) 
+    </td>
+</tr>
+
+<tr>
+    <td>Everyone</td>
+    <td class="fr">Bonjour Major Tom!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Oui! Major Tom!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Winton</td>
+    <td class="fr">Pbbbt! PLOP!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Indy]</td>
+    <td class="fr">Il vécurent heureux pour toujours.<br>
+    Fin de l'histoire.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Beaucoup mieux.</td>
+    <td class="jp"></td>
+</tr>

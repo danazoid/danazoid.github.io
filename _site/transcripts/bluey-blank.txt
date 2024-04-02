@@ -1,0 +1,318 @@
+<table>
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Eh Bluey, regarde!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Bluey</td>
+    <td class="fr">Oh wow!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Mais il y avait un problème.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Bluey</td>
+    <td class="fr">Ta vache est vraiment très chouette Indy!</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">Ma vache?</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>[Calypso]</td>
+    <td class="fr">Le cheval d'Indy ressemblait à une vache.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Rusty</td>
+    <td class="fr">Jolie vache Indy.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Indy</td>
+    <td class="fr">C'est pas une vache, c'est un cheval.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td>Chloe</td>
+    <td class="fr">Non, c'est une vache.</td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+
+
+
+
+Indy
+
+Winton?
+
+Winton
+
+Ouuuuuii????
+
+Indy
+
+Winton.
+
+Winton
+
+Haha!
+
+Coco
+
+Winton, pourquoi tu ne peux pas être gentil? 
+
+Winton
+
+Parce que je ne suis pas gentille.
+
+[Calypso]
+
+Indy était très triste. 
+Elle était tellement triste
+Quand la maîtresse vint voir si elle allait bien. 
+Indy lui dit:
+
+
+
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+
+<tr>
+    <td></td>
+    <td class="fr"></td>
+    <td class="jp"></td>
+</tr>
+

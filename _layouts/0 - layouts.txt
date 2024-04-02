@@ -1,0 +1,12 @@
+layout are templates of pages
+
+JEKYLL uses LIQUID
+LIQUID is a language to process TEMPLATES
+LIQUID wraps around page content
+
+1. output content using two curly braces {{ variable }}
+
+2. perform logic statements eg {% if statement %}
+
+variables can be set in the FrontMatter of the page
+LIQUID "includes" are CODE FUNCTIONS

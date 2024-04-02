@@ -1,0 +1,3 @@
+store CSS, images, js and other assets here
+this folder is used directly
+it does not go through jekyll

@@ -1,0 +1,45 @@
+---
+layout: laylang
+---
+
+<!--
+<button onclick="toggleFR()">FR</button>
+<button onclick="toggleJP()">JP</button>
+-->
+
+<h3>{{ page.show }}: {{ page.epName }} 
+    (S{{ page.season }}E{{ page.episode}})</h3>
+    
+{{ content }}
+
+<script>
+    function toggleFR() {
+        var targets = document.getElementsByClassName("fr");
+        for (var i=0; i < targets.length; i++)
+        {
+            if (targets.item(i).style.display == "none")
+            {
+                targets.item(i).style.display = "table-cell";
+            }
+            else
+            {
+                targets.item(i).style.display = "none";
+            }
+        }
+    }
+    
+    function toggleJP() {
+        var targets = document.getElementsByClassName("jp");
+        for (var i=0; i < targets.length; i++)
+        {
+            if (targets.item(i).style.display == "none")
+            {
+                targets.item(i).style.display = "table-cell";
+            }
+            else
+            {
+                targets.item(i).style.display = "none";
+            }
+        }
+    }
+</script>
