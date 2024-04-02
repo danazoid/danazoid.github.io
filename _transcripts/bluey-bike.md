@@ -157,7 +157,7 @@ episode: 11
 
 <tr>
     <td> Bentley </td>
-    <td> Oui ___ </td>
+    <td> Oui, je saute. </td>
 </tr>
 
 <tr>
@@ -173,14 +173,14 @@ episode: 11
 <tr>
     <td> Bluey </td>
     <td> (as Muffin spins) <br> 
-    Ah, ___ arrête de tourner Muffin. <br>
+    Ah, arrête de tourner Muffin. <br>
     (Muffin gets dizzy) <br>
     Elle a la tête qui tourne! </td>
 </tr>
 
 <tr> 
     <td> Bandit </td>
-    <td> (Muffin has fallen and is going to explode) <br>
+    <td> (Muffin has fallen and is melting down) <br>
     Ah mince, je sens qu'elle va s'énerver. </td>
 </tr>
 
