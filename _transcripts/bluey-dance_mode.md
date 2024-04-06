@@ -94,7 +94,8 @@ episode: 1
 		<td>Oh, non, pas le jeu du mode danse.</td>
 	</tr>
 	<tr>
-		<td colspan="2" style="text-align: center">
+		<td>Bluey</td>
+		<td style="text-align: center">
 		Cette episode du Bluey à pour titre:<br>
 		<< le jeu du mode danse>></td>
 	</tr>
@@ -258,9 +259,6 @@ episode: 1
 	<tr>
 		<td>Dog</td>
 		<td>Bravo, monsieur Piaget! Allez, plus vite!</td>
-	</tr>
-	<tr>
-		<td colspan=2 style=text-align: center>À la rue</td>
 	</tr>
 	<tr>
 		<td>Chili</td>
