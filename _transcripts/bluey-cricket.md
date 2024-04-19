@@ -261,7 +261,7 @@ episode: 47
 	</tr>
 	<tr>
 		<td>[Bandit]</td>
-		<td>Parfois, Rusty jouait avec les copains de son grand frère. L'un d'entre eux s'appelait Tilly et il lançait la balle super fort.</td>
+		<td>Parfois, Rusty jouait avec les copains de son grand frère. L'un d'entre eux s'appelait Tiny et il lançait la balle super fort.</td>
 	</tr>
 	<tr>
 		<td>Tiny</td>
